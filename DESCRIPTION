@@ -1,0 +1,11 @@
+Package: ABCV
+Type: Package
+Title: Cross validation for time-series
+Version: 0.1.0
+Author: Ruizhi Ma
+Maintainer: Ruizhi Ma <ruizhima@sas.upenn.edu>
+Description: Implement hv cross validation in Racine (2000), JoE
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
